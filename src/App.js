@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>MCAFEE PUSH-NOTIFICATION PROJECT</h1>
-      <h2>ZopSmart</h2>
+      <h2>Aditya</h2>
     </div>
   );
 }
